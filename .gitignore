@@ -1,0 +1,8 @@
+.idea/
+Main.iml
+User.iml
+UserProcessor.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
